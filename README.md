@@ -1,5 +1,8 @@
 # Grid y Flexbox Layout con CSS Nativo
 
+> [!NOTE]
+> [Ver Demo](https://dor-ae2-grid-layout-flexbox.netlify.app/)
+
 ## Autor
 
 - [Adán Pérez](https://github.com/Adan-Perez)
@@ -7,10 +10,6 @@
 ## Repositorio
 
 - [Repositorio en GitHub](https://github.com/Adan-Perez/ae2-grid-layout-flexbox)
-
-## Demo
-
-- [Ver Demo](https://dor-ae2-grid-layout-flexbox.netlify.app/)
 
 ## Descripción
 
@@ -58,6 +57,8 @@ Este proyecto es una cuadrícula diseñada con CSS Grid y Flexbox que incluye im
 project/
 ├── index.html  # Archivo principal HTML
 ├── styles.css  # Archivo de estilos CSS
+├── images      # Carpeta de imágenes
+├── todo.md     # Archivo de tarea a realizar
 └── README.md   # Archivo de documentación
 ```
 
