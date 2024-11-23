@@ -1,12 +1,12 @@
 :root {
   --color-border: #e0e0e0;
   --color-bg: #ffffff;
-  --color-body: #c9c9c9;
+  --color-body: #d4eefe;
   --color-subgrid-bg: #d3ffc8;
   --color-subgrid-border: #8ecf71;
   --color-text: #f6f6f6;
-  --gap: 15px;
-  --subgrid-gap: 10px;
+  --gap: 24px;
+  --subgrid-gap: 14px;
   --transition-duration: 0.3s;
   --border-radius: 12px;
 }
